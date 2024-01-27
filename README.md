@@ -27,25 +27,25 @@ Target audience: Management Teams
 
 
 ### Key Performance Indicators and Metrics:
-Total Revenue
-2.Total Order
-3.Total Profit
-4.Return Rate 
-5.Most Ordered Product 
-6.Most Returned Product 
-7.Monthly Revenue 
-8.Monthly Order 
-8.Monthly Return 
-9.Unique Customer Count 
-10.Revenue Per Customer 
-11.Top Customer 
-112.Biggest Market by Country 
+-Total Revenue
+-Total Order
+-Total Profit
+-Return Rate 
+-Most Ordered Product 
+-Most Returned Product 
+-Monthly Revenue 
+-Monthly Order 
+-Monthly Return 
+-Unique Customer Count 
+-Revenue Per Customer 
+-Top Customer 
+-Biggest Market by Country 
 
 # Observation
-Case Studies on the Findings through Dashboard.
-1.More than 75% of revenue and Profit coming from United States alone ,So its not a good Factor ,Adventure Works(AW) have to diversify across different Countries
-2.Our Most Revenue Generating Category are Bikes But their Return Rate also Too High ,So AW have to Focus on their Quality to Improve the sale and Brand Image Further 
-3.On Dec 2021,there is a Huge Fall in Revenue ,AW have to Know the Reason for this to avoid in the Future, whether its due to Macroeconomics Change or Its Prevelant in the sector ,It took next 6 months to break that Point in the Revenue 
-4.Average Revenue Per Customer Decreased from $3000 to $800 ,But No Of Customer is increasing So revenue is Not Affected ,So it seems We are Good in doing Marketing for Attracting New Customer,But Our Cusotmer Service aren't good enough to Hook the customer to Us .So AW will have to Improve the Service .
-5.In the Last Month ie June ,Every Product Category Revenue , Profit,Order are Decreasing By over 50% ,So AW have to check whether its due to prevelant across industries or Macroeconomic change like Cutting Subsidy,Increasing INterest Rate ,RBI putting Regulation on Financing Company etc..
-6.As we saw that Tires and Tubes are Our Most Ordered Product ,So if we have Good Moat and Good Name in the Market for this Product means ,may be AW can Think about increasing Margin on the Product for Better Returns.
+## Case Studies on the Findings through Dashboard.
+- More than 75% of revenue and Profit coming from United States alone ,So its not a good Factor ,Adventure Works(AW) have to diversify across different Countries
+- Our Most Revenue Generating Category are Bikes But their Return Rate also Too High ,So AW have to Focus on their Quality to Improve the sale and Brand Image Further
+- On Dec 2021,there is a Huge Fall in Revenue ,AW have to Know the Reason for this to avoid in the Future, whether its due to Macroeconomics Change or Its Prevelant in the sector ,It took next 6 months to break that Point in the Revenue
+- Average Revenue Per Customer Decreased from $3000 to $800 ,But No Of Customer is increasing So revenue is Not Affected ,So it seems We are Good in doing Marketing for Attracting New Customer,But Our Cusotmer Service aren't good enough to Hook the customer to Us .So AW will have to Improve the Service .
+- In the Last Month ie June ,Every Product Category Revenue , Profit,Order are Decreasing By over 50% ,So AW have to check whether its due to prevelant across industries or Macroeconomic change like Cutting Subsidy,Increasing INterest Rate ,RBI putting Regulation on Financing Company etc..
+- As we saw that Tires and Tubes are Our Most Ordered Product ,So if we have Good Moat and Good Name in the Market for this Product means ,may be AW can Think about increasing Margin on the Product for Better Returns.
