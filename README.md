@@ -15,6 +15,9 @@ All I've been given is a folder of raw csv files, which contain information abou
 **StakeHolder**
 Management Team 
 
+
+# Measures Used 
+
 ![image](https://github.com/thiru1999/SalesAnalytics/assets/42457037/374aa673-50dc-45f4-af68-cf0ee8d756bd)
 
 ![image](https://github.com/thiru1999/SalesAnalytics/assets/42457037/ddeb0493-1a50-4d4d-810f-1128ce88dba4)
@@ -27,19 +30,19 @@ Target audience: Management Teams
 
 
 ### Key Performance Indicators and Metrics:
--Total Revenue
--Total Order
--Total Profit
--Return Rate 
--Most Ordered Product 
--Most Returned Product 
--Monthly Revenue 
--Monthly Order 
--Monthly Return 
--Unique Customer Count 
--Revenue Per Customer 
--Top Customer 
--Biggest Market by Country 
+- Total Revenue
+- Total Order
+- Total Profit
+- Return Rate 
+- Most Ordered Product 
+- Most Returned Product 
+- Monthly Revenue 
+- Monthly Order 
+- Monthly Return 
+- Unique Customer Count 
+- Revenue Per Customer 
+- Top Customer 
+- Biggest Market by Country 
 
 # Observation
 ## Case Studies on the Findings through Dashboard.
